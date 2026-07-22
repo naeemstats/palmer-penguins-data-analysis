@@ -1,0 +1,65 @@
+Palmer Penguins Data Analysis
+A Data Analysis Project Using R and Python
+
+
+
+
+
+Prepared by:
+Md Naeemul Islam
+Department of Statistics
+Dhaka College (Affiliated with the University of Dhaka)
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+Date: 22 July 2026
+1. 
+Introduction
+
+This project explores the Palmer Penguins dataset using R and Python. The objective is to perform data cleaning, exploratory data analysis (EDA), summary statistics, and data visualization to understand the relationships among penguin body measurements. The project demonstrates fundamental data analysis skills commonly required in research and entry-level data analyst positions.
+
+2. Objectives
+• Import and explore the Palmer Penguins dataset.
+
+• Clean missing values.
+
+• Generate summary statistics.
+
+• Create publication-quality visualizations.
+
+• Examine relationships among penguin measurements.
+
+• Present findings in a professional report.
+
+
+3. Dataset
+
+Dataset Name:
+Palmer Penguins
+
+Source:
+Horst, A. M., Hill, A. P., & Gorman, K. B. (2020)
+
+Variables Used:
+
+• Species
+
+• Bill Length (mm)
+
+• Bill Depth (mm)
+
+• Flipper Length (mm)
+
+• Body Mass (g)
